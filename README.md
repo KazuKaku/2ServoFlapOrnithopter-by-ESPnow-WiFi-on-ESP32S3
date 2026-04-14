@@ -21,7 +21,7 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 1. First, write the CODE (ESP32S3WiFiSFOfor2SFOV3RXCODE.ino) to the receiving ESP32S3 and display the Serial monitor.
 Confirm the MAC address.
 Display on the receiving serial monitor:
-"EX.  RX
+"EX. : RX
 ESP-NOW RX minimal
 RX My MAC: 1C:DB:D4:75:64:C8"
 
@@ -29,7 +29,7 @@ RX My MAC: 1C:DB:D4:75:64:C8"
 
 Write the MAC address of the RX-side ESP32 (be sure to match it to the RX's MAC address) to the transmitting side's CODE (ESP32S3WiFiSFOfor2or4SFOV3TXCODE.ino).
 
-"uint8_t peerMac[] = {0x1C, 0xDB, 0xD4, 0x75, 0x64, 0xC8};"
+"EX. : uint8_t peerMac[] = {0x1C, 0xDB, 0xD4, 0x75, 0x64, 0xC8};"
 
 TX16S-ESP32S3-WiFi-ESP32S3-Servo system for 2Servo Flap Ornithopter
 (https://www.youtube.com/watch?v=kpqIa_A7cuo)
