@@ -1,5 +1,6 @@
 # 2ServoFlapOrnithopter-by-ESPnow-WiFi-on-ESP32S3
-　## Running 2ServoFlapOrnithopter system using Wi-Fi (ESP-Now system) on Seeed Studio XIAO ESP32S3
+
+　 Running 2ServoFlapOrnithopter system using Wi-Fi (ESP-Now system) on Seeed Studio XIAO ESP32S3
 
 The Seeed Studio ESP32S3 is a high-speed board operating at up to 240MHz and features 2.4GHz Wi-Fi capabilities.
 
