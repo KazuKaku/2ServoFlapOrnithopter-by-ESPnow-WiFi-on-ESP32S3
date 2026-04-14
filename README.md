@@ -1,6 +1,6 @@
 # 2ServoFlapOrnithopter-by-ESPnow-WiFi-on-ESP32S3
 
-　##Caution!!
+　# Caution!!
 
 　　　　This system is an experimental design.
 
