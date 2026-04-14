@@ -11,7 +11,7 @@ The 2.4GHz antenna hasn't arrived yet, so a short-range connection without the a
 
 The radio waves seem to reach about 50-100 meters, so it might be usable with a small Ornithopter. 
 
-![Wiring](image/260409 ESP32S3WiFiSFOfor2SFOV3CODE.jpg)
-
+![Wiring]([image/260409 ESP32S3WiFiSFOfor2SFOV3CODE.jpg)
+](https://github.com/KazuKaku/2ServoFlapOrnithopter-by-ESPnow-WiFi-on-ESP32S3/blob/f64f517d1701e0e3be4ec08f6204e4e93326c880/image/260409%20ESP32S3WiFiSFOfor2SFOV3CODE.jpg)
 TX16S-ESP32S3-WiFi-ESP32S3-Servo system for 2Servo Flap Ornithopter
 (https://www.youtube.com/watch?v=kpqIa_A7cuo)
