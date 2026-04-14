@@ -21,7 +21,7 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 1. First, write the CODE (ESP32S3WiFiSFOfor2SFOV3RXCODE.ino) to the receiving ESP32S3 and display the Serial monitor.
 Confirm the MAC address.
 Display on the receiving serial monitor:
-"RX
+"EX.  RX
 ESP-NOW RX minimal
 RX My MAC: 1C:DB:D4:75:64:C8"
 
