@@ -8,8 +8,6 @@ By connecting two ESP32S3s using the ESP32-now system, the receiver can be omitt
 
 Code was created while interacting with the AI. Since the existing PMMReader cannot be used with the ESP32S3, this was created first, followed by code using the ESP-now system.
 
-The 2.4GHz antenna hasn't arrived yet, so a short-range connection without the antenna was tested, and it seems to be working well.
-
 The radio waves seem to reach about 50-100 meters, so it might be usable with a small Ornithopter. 
 
 ![Wiring](image/260409ESP32S3WiFi2SFOV3Wiring.jpg)
