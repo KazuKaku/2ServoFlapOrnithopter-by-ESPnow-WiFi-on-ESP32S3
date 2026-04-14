@@ -13,6 +13,5 @@ The radio waves seem to reach about 50-100 meters, so it might be usable with a 
 
 ![Wiring](image/260409 ESP32S3WiFiSFOfor2SFOV3CODE.jpg)
 
-
 TX16S-ESP32S3-WiFi-ESP32S3-Servo system for 2Servo Flap Ornithopter
 (https://www.youtube.com/watch?v=kpqIa_A7cuo)
